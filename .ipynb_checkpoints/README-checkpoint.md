@@ -1,5 +1,7 @@
 # Conda environment with environment.yml
 
+myBinder link for Jupyter Notebook for regrex1.csv Linear Regression assignment - R Script
+
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nato04/rScript_1A/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
