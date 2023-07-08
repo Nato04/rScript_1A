@@ -4,13 +4,13 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - r-base=4.0
+  - r-base=4.1
   - r-dplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
-  - r-plotly
   - r-stringr
+  - r-plotly
   - python=3.9
   - pip
   - pip:
